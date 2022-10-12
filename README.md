@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Varad, a aspiring Data Scientist 📊 currently building some Projects 🔨 and looking forward to solve Problems</div>  
+### <div align="center">🙏🏼I'm <b> Varad Tote, a aspiring Data Scientist 📊 currently building some Projects 🔨 and looking forward to solve Problems</div>  
   
 
 - 🔭 I’m currently working on ML-Studio  
@@ -26,12 +26,13 @@
 
 
 
-### Frameworks / Libraries  
+### Frameworks and Libraries
 <div align="center">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a> 
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -92,11 +93,10 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=varadtote&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varadtote&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=varadtote&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varadtote&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -107,7 +107,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
   
 
-<br/>  
+<br/>
+  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=varadtote&&style=flat-square" align="center" />
@@ -120,4 +122,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
